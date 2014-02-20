@@ -1,18 +1,8 @@
 {
-  "name": "os-component",
+  "name": "component-os",
   "description": "Return the operating system name",
   "version": "0.0.1",
   "keywords": [],
   "dependencies": {},
-  "development": {},
-  "license": "MIT",
-  "component": {
-    "scripts": {
-      "os/index.js": "index.js"
-    }
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/component/os.git"
-  }
+  "license": "MIT"
 }
